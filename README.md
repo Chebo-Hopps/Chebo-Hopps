@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chebo Chitalu</h1>
-<h3 align="center">A Data Analyst from Zambia</h3>
+<h3 align="center">A Computer Science Student & Data Analyst from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chebo-hopps&label=Profile%20views&color=0e75b6&style=flat" alt="chebo-hopps" /> </p>
 
