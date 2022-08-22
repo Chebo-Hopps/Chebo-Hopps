@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python, SQL, R**
 
-- 💬 Ask me about **Microsoft Excel**
+- 💬 Ask me about **Data Analytics** using **Microsoft Excel**, **R**, **Tableau** 
 
 - 📫 How to reach me **chebochitalum@gmail.com**
 
