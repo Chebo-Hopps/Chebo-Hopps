@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/chebochitalu" target="blank"><img src="https://img.shields.io/twitter/follow/chebochitalu?logo=twitter&style=for-the-badge" alt="chebochitalu" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL, R, HTML, CSS, and Java Script**.
+- 🌱 I’m a **Computer Science Associate degree** holder from the University of the People.
 
 - 💬 Ask me about **Data Analytics** using **Microsoft Excel**, **R**, **Tableau**. 
 
 - 📫 How to reach me **chebochitalum@gmail.com** or **chebochitalum@outlook.com**
 
-- ⚡ Fun fact **I love wildlife, sports and pencil drawing**.
+- ⚡ Fun fact **I love wildlife, sports, and pencil drawing**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
